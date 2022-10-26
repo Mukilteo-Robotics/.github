@@ -1,4 +1,4 @@
-## Mukilteo Robotics 🤖
+# Mukilteo Robotics 🤖
 VEX VRC Team Based in Mukilteo, WA
 
 [mukilteorobotics.org](https://mukilteorobotics.org)
